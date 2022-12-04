@@ -1,3 +1,5 @@
+# https://adventofcode.com/2022/day/3
+
 file = open("input.txt", "r")
 results = file.read()
 rucksacks = results.strip().split('\n')
