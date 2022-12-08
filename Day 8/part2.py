@@ -1,3 +1,5 @@
+# https://adventofcode.com/2022/day/8
+
 file = open("input.txt", "r")
 input = file.read()
 trees = input.strip().split('\n')
